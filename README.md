@@ -1,16 +1,18 @@
-### Hi there 👋
+# Título del Proyecto
+-Carrera.java
 
-<!--
-**Rutsromero/Rutsromero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Imagen de portada] (img/....)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Descripcion 
+
+Uno de los trabajos creados con java sobre una carrera de coches 
+One of the works created whit java about a car racer
+
+## Características
+
+  - Tenemos jugador 1 con un coche 🏎️
+  - Tenemos jugador con el coche 2 🏎️
+  - Una etapa de 100.000km y un ganador 
+
+
