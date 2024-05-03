@@ -2,7 +2,7 @@
 -Carrera.java
 
 
-![Imagen de portada] (img/....)
+![Imagen de portada] (img/recursos/audi-formula-e-2021.jpeg)
 
 ## Descripcion 
 
