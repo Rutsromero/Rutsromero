@@ -1,13 +1,11 @@
-# Título del Proyecto
--Carrera.java
-
+# Carrera.java
 
 ![Imagen de portada](recursos/audi-formula-e-2021.jpeg)
 
 ## Descripcion 
 
-Uno de los trabajos creados con java sobre una carrera de coches 
-One of the works created whit java about a car racer
+- Uno de los trabajos creados con java sobre una carrera de coches 
+- One of the works created whit java about a car racer
 
 ## Características
 
